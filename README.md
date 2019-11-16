@@ -61,4 +61,4 @@ Signaling servers, for example, are best implemented with a harmony of websocket
 
 ## The Future to Come
 
-It is never a sure game when 'predicting' the future of tech and software, but one can say with reasonable certainty that websockets and webRTC have a growing use case. The web, in its short life, has evolved remarkebly quickly and humans as a society have grown ever dependent on vast pools of accessible, up-to-date information. I think it highly likely that webRTC will continue to gain popularity, expanding the boundaries of what is possible in web development.
+It is never a sure game when 'predicting' the future of tech and software, but one can say with reasonable certainty that websockets and webRTC have a growing use case. The web, in its short life, has evolved remarkebly quickly and humans as a society have grown ever dependent on vast pools of accessible, up-to-date information. I think it's highly likely that webRTC will continue to gain popularity, expanding the boundaries of what is possible in web development.
